@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "name":"Cat Lynx",
+            "price": 192.00
+        },
+        {
+            "name":"Cool Fridge",
+            "price": 50.00
+        },
+        {
+            "name": "A person",
+            "price": 0.00
+        }
+    ]
+}
